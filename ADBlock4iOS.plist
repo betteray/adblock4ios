@@ -1,0 +1,10 @@
+{
+	Filter = {
+		Bundles = (
+			"com.weibo.international",
+			"com.netease.cloudmusic",
+            "com.tencent.QQMusic",
+            "com.tencent.live4iphone",
+		);
+	};
+}

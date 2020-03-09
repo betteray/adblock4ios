@@ -1,0 +1,11 @@
+Package: me.ray.adblock4ios
+Name: ADBlock4iOS
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: remove some app's ad.
+Maintainer: ray
+Author: ray
+Section: Tweaks
+Depiction: https://thepapaya.me/cydia/depictions/?p=me.ray.adblock4ios
+
